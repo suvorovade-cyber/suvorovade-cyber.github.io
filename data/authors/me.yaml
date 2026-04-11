@@ -51,16 +51,35 @@ education:
     start: 2014-09-01
     end: 2025-06-30
 
-# experience:
-#   - role:
-#     org:
-#     start:
-#     summary: |
-#
-#     button:
-#       text: View portfolio
-#       url: /
-#       icon: hero/arrow-down-tray
+experience:
+  - role: Студентка (бакалавриат)
+    org: РУДН, Факультет физико-математических и естественных наук
+    start: 2025-09-01
+    end: 2029-06-30
+    summary: |
+      Направление «Прикладная информатика». Изучаю программирование, дискретную математику, компьютерную алгебру. Успешно решаю задачи повышенной сложности на парах.
+    button:
+      text: Узнать о направлении
+      url: https://eng.rudn.ru/ffmen
+      icon: hero/arrow-right
+  - role: Участник языковых кружков
+    org: РУДН
+    start: 2025-09-01
+    summary: |
+      Регулярное участие в кружках английского и французского языков. Выступала с устными докладами на французском, обсуждала фильмы на английском.
+    button:
+      text: Подробнее о кружках
+      url: https://rudn.ru/student-life/clubs
+      icon: hero/arrow-right
+  - role: Бег (любительский спорт)
+    org: Самостоятельно
+    start: 2026-03-01
+    summary: |
+      Регулярные пробежки на улице. Поддержание физической формы, дисциплина, выносливость.
+    button:
+      text: О пользе бега
+      url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7187800/
+      icon: hero/arrow-right
 
 skills:
   - name: Технические навыки
@@ -86,9 +105,11 @@ languages:
     level: 3
     label: Читаю профессиональную литературу
 
-# awards:
-#   - title:
-#     awarder:
-#     date:
-#     summary:
-#     icon: hero/trophy
+awards:
+  - title: "Введение в Linux"
+    awarder: Stepik (Институт биоинформатики)
+    date: "2026-03-20"
+    summary: |
+      Успешно завершил курс для начинающих пользователей Linux. Изучил установку системы, базовую работу в графическом интерфейсе и командной строке (терминале), основы удалённой работы на сервере и начальные навыки написания bash-скриптов.
+    url: "https://freeimage.host/i/BV2rHru"
+    icon: hero/computer-desktop
