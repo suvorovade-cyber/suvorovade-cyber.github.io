@@ -26,11 +26,38 @@ links:
   - icon: at-symbol
     url: mailto:1032253638@rudn.ru
     label: E-mail Me
+
   - icon: brands/github
     url: https://github.com/suvorovade-cyber
-  # Раскомментируй если есть другие соцсети
-  # - icon: brands/telegram
-  #   url: https://t.me/suvorovade
+    label: GitHub
+
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/
+    label: Google Scholar
+
+  - icon: academicons/orcid
+    url: https://orcid.org/
+    label: ORCID
+
+  - icon: academicons/arxiv
+    url: https://arxiv.org/
+    label: arXiv
+
+  - icon: hero/document-text
+    url: https://www.researchgate.net/
+    label: ResearchGate
+
+  - icon: academicons/academia
+    url: https://www.academia.edu/
+    label: Academia.edu
+
+  - icon: academicons/mendeley
+    url: https://www.mendeley.com/
+    label: Mendeley
+
+  - icon: hero/document
+    url: https://elibrary.ru/
+    label: eLibrary
 
 interests:
   - Компьютерная алгебра (SageMath)
